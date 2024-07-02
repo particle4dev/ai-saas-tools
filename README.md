@@ -18,3 +18,5 @@ Founder: https://x.com/nilansaha
 ## 3. [sitegpt.ai](https://sitegpt.ai)
 
 Make AI your expert customer support agent
+
+Founder: https://x.com/pbteja1998
