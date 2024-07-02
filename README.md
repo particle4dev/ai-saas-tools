@@ -1,5 +1,5 @@
 
-## [autoshorts.ai](https://autoshorts.ai/)
+## 1. [autoshorts.ai](https://autoshorts.ai/)
 
 Faceless Videos on Auto-Pilot.
 
