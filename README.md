@@ -30,7 +30,7 @@ AI Girlfriends are here to fulfill all your desires. Choose from 100+ fantasy sc
 
 Founder: https://x.com/stacy_siz
 
-## 5. [autorepurpose.io]: https://www.autorepurpose.io
+## 5. [autorepurpose.io](https://www.autorepurpose.io)
 
 Repurpose YouTube, grow your social media 10x faster
 
