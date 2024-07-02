@@ -20,3 +20,12 @@ Founder: https://x.com/nilansaha
 Make AI your expert customer support agent
 
 Founder: https://x.com/pbteja1998
+
+## 4. [aigirlfriend.wtf](https://www.aigirlfriend.wtf)
+
+Spicy adventures with AI Girlfriends
+Unwind and Relax After a Hard Day.
+
+AI Girlfriends are here to fulfill all your desires. Choose from 100+ fantasy scenarios, from casual to extreme. Enjoy spicy images and create your ideal girl-just your type. You've earned a break!
+
+Founder: https://x.com/stacy_siz
