@@ -37,4 +37,15 @@ Repurpose YouTube, grow your social media 10x faster
 
 Founder: [https://x.com/taishik_](https://x.com/taishik_)
 
+### 6. [presspulse](https://www.presspulse.ai/)
+
+https://www.presspulse.ai/haro-link-building
+
+Get Press Mentions with
+5-minutes a day.
+Receive personalized journalist inquiry leads every day.
+Sourced from HARO®* and powered by GPT-4.
+
+Founder: https://x.com/GlitchPhoton
+
 ## Image
