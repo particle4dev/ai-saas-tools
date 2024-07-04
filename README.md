@@ -42,6 +42,12 @@ Founder: https://x.com/GlitchPhoton
 
 ## Image
 
+1. https://photoai.com
+
+Founder: https://x.com/levelsio
+
+1. aaa
+
 ## Video
 
 - [autoshorts.ai](https://autoshorts.ai/)
