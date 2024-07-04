@@ -1,59 +1,34 @@
-## Text
+## AI Tools and Platforms
 
-- [magicreply.io](https://magicreply.io)
+### Text
 
-  Grow 10x Faster on Twitter
-  Generate human like replies using AI with a single click.
-  Get more eyeballs on your profile.
+1. **[magicreply.io](https://magicreply.io)**
+   - **Description:** Grow 10x Faster on Twitter. Generate human-like replies using AI with a single click. Get more eyeballs on your profile.
+   - **Founder:** [Nilan Saha](https://x.com/nilansaha)
 
-Founder: https://x.com/nilansaha
+1. **[sitegpt.ai](https://sitegpt.ai)**
+   - **Description:** Make AI your expert customer support agent.
+   - **Founder:** [Teja P](https://x.com/pbteja1998)
 
-- [sitegpt.ai](https://sitegpt.ai)
+1. **[aigirlfriend.wtf](https://www.aigirlfriend.wtf)**
+   - **Description:** Spicy adventures with AI Girlfriends. Unwind and relax after a hard day. AI Girlfriends are here to fulfill all your desires. Choose from 100+ fantasy scenarios, from casual to extreme. Enjoy spicy images and create your ideal girl - just your type. You've earned a break!
+   - **Founder:** [Stacy Siz](https://x.com/stacy_siz)
 
-Make AI your expert customer support agent
+1. **[autorepurpose.io](https://www.autorepurpose.io)**
+   - **Description:** Repurpose YouTube, grow your social media 10x faster.
+   - **Founder:** [Taishik](https://x.com/taishik_)
 
-Founder: https://x.com/pbteja1998
+1. **[presspulse](https://www.presspulse.ai/)**
+   - **Description:** Get press mentions with 5 minutes a day. Receive personalized journalist inquiry leads every day. Sourced from HARO®* and powered by GPT-4.
+   - **Founder:** [Glitch Photon](https://x.com/GlitchPhoton)
 
-- [aigirlfriend.wtf](https://www.aigirlfriend.wtf)
+### Image
 
-Spicy adventures with AI Girlfriends
-Unwind and Relax After a Hard Day.
+1. **[photoai.com](https://photoai.com)**
+   - **Founder:** [Levelsio](https://x.com/levelsio)
 
-AI Girlfriends are here to fulfill all your desires. Choose from 100+ fantasy scenarios, from casual to extreme. Enjoy spicy images and create your ideal girl-just your type. You've earned a break!
+### Video
 
-Founder: https://x.com/stacy_siz
-
-- [autorepurpose.io](https://www.autorepurpose.io)
-
-Repurpose YouTube, grow your social media 10x faster
-
-Founder: [https://x.com/taishik_](https://x.com/taishik_)
-
-- [presspulse](https://www.presspulse.ai/)
-
-https://www.presspulse.ai/haro-link-building
-
-Get Press Mentions with
-5-minutes a day.
-Receive personalized journalist inquiry leads every day.
-Sourced from HARO®* and powered by GPT-4.
-
-Founder: https://x.com/GlitchPhoton
-
-## Image
-
-1. https://photoai.com
-  Founder: https://x.com/levelsio
-
-1. aaa
-
-## Video
-
-- [autoshorts.ai](https://autoshorts.ai/)
-
-Faceless Videos on Auto-Pilot.
-
-Our powerful AI video creation platform allows you to fully automate a faceless channel.
-
-Founder: https://x.com/ericsmith1302
-
+1. **[autoshorts.ai](https://autoshorts.ai/)**
+   - **Description:** Faceless videos on auto-pilot. Our powerful AI video creation platform allows you to fully automate a faceless channel.
+   - **Founder:** [Eric Smith](https://x.com/ericsmith1302)
