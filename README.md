@@ -22,6 +22,10 @@
    - **Description:** Get press mentions with 5 minutes a day. Receive personalized journalist inquiry leads every day. Sourced from HARO®* and powered by GPT-4.
    - **Founder:** [Glitch Photon](https://x.com/GlitchPhoton)
 
+1. **[jenni.ai](https://jenni.ai/)**
+   - **Description:** Jenni's AI-powered text editor helps you write, edit, and cite with confidence. Save hours on your next paper.
+   - **Founder:** [David Park](https://x.com/Davidjpark96)
+
 ### Image
 
 1. **[photoai.com](https://photoai.com)**
