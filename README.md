@@ -36,3 +36,8 @@
 1. **[autoshorts.ai](https://autoshorts.ai/)**
    - **Description:** Faceless videos on auto-pilot. Our powerful AI video creation platform allows you to fully automate a faceless channel.
    - **Founder:** [Eric Smith](https://x.com/ericsmith1302)
+  
+
+## References
+
+- https://genai.works/applications
