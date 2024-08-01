@@ -2,6 +2,16 @@
 
 ### 1. Images
 
+- [Stable Diffusion](https://stability.ai/stable-image)
+
+- [SDXL Turbo](https://stability.ai/news/stability-ai-sdxl-turbo)
+
+### 2. Videos
+
+- xxx
+
+### x. NSFW Stable Diffusion
+
 ## References
 
 - https://zapier.com/blog/best-ai-image-generator/
