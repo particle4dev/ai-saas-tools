@@ -8,7 +8,7 @@
 
 ### 2. Videos
 
-- xxx
+- [Stable Video Diffusion](https://stability.ai/stable-video)
 
 ### x. NSFW Stable Diffusion
 
