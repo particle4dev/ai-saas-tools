@@ -10,9 +10,7 @@
 
 - [Stable Video Diffusion](https://stability.ai/stable-video)
 
-### x. NSFW Stable Diffusion
-
-### xx. fine-tuning Stable Diffusion models
+### x. fine-tuning Stable Diffusion models
 
 - LoRA
   - https://viblo.asia/p/finetuning-stable-diffusion-hieu-qua-voi-lora-aNj4vxeqL6r
@@ -21,8 +19,10 @@
 - Dreambooth: You can put real-life objects or persons into a Stable Diffusion model and generate images in different styles and settings.
   - https://stable-diffusion-art.com/dreambooth/
  
-- Embedding, also called textual inversion: is an alternative way to control the style of your images in Stable Diffusion. 
+- Embedding, also called textual inversion: is an alternative way to control the style of your images in Stable Diffusion.
   - https://stable-diffusion-art.com/embedding/
+
+### xx. NSFW Stable Diffusion
 
 ## References
 
