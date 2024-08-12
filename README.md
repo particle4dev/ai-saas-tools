@@ -14,6 +14,8 @@
    - **Description:** Spicy adventures with AI Girlfriends. Unwind and relax after a hard day. AI Girlfriends are here to fulfill all your desires. Choose from 100+ fantasy scenarios, from casual to extreme. Enjoy spicy images and create your ideal girl - just your type. You've earned a break!
    - **Founder:** [Stacy Siz](https://x.com/stacy_siz)
 
+1. **[botify.ai](https://botify.ai)**
+
 1. **[autorepurpose.io](https://www.autorepurpose.io)**
    - **Description:** Repurpose YouTube, grow your social media 10x faster.
    - **Founder:** [Taishik](https://x.com/taishik_)
