@@ -37,6 +37,10 @@
    - **Description:** Faceless videos on auto-pilot. Our powerful AI video creation platform allows you to fully automate a faceless channel.
    - **Founder:** [Eric Smith](https://x.com/ericsmith1302)
   
+### Coding
+
+1. **[cursor.com](https://www.cursor.com)**
+   - The AI Code Editor: Built to make you extraordinarily productive, Cursor is the best way to code with AI.
 
 ## References
 
