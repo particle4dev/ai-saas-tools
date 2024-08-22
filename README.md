@@ -28,6 +28,10 @@
    - **Description:** Jenni's AI-powered text editor helps you write, edit, and cite with confidence. Save hours on your next paper.
    - **Founder:** [David Park](https://x.com/Davidjpark96)
 
+1. **[snapcut.ai](https://snapcut.ai)**
+   - **Description:** Short Clips, Big Hits
+   - **Founder:** https://www.linkedin.com/in/trungnx26/
+
 ### Image
 
 1. **[photoai.com](https://photoai.com)**
