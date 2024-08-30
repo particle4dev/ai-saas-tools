@@ -32,6 +32,9 @@
    - **Description:** Short Clips, Big Hits
    - **Founder:** https://www.linkedin.com/in/trungnx26/
 
+1. **[Firecrawl](https://www.firecrawl.dev)**
+   - **Description:** Turn websites into LLM-ready data
+
 ### Image
 
 1. **[photoai.com](https://photoai.com)**
