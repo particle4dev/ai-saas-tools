@@ -35,6 +35,9 @@
 1. **[Firecrawl](https://www.firecrawl.dev)**
    - **Description:** Turn websites into LLM-ready data
 
+1. **[Dify](https://dify.ai/)**
+   - **Description:** The Innovation Engine for GenAI Applications
+
 ### Image
 
 1. **[photoai.com](https://photoai.com)**
