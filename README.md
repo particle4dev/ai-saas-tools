@@ -32,11 +32,14 @@
    - **Description:** Short Clips, Big Hits
    - **Founder:** https://www.linkedin.com/in/trungnx26/
 
-1. **[Firecrawl](https://www.firecrawl.dev)**
+1. **[Firecrawl](https://www.firecrawl.dev)** / Open Source
    - **Description:** Turn websites into LLM-ready data
 
-1. **[Dify](https://dify.ai/)**
+1. **[Dify](https://dify.ai/)** / Open Source
    - **Description:** The Innovation Engine for GenAI Applications
+
+1. **[Flowise AI](https://flowiseai.com/)**
+   - **Description:** Build LLM Apps Easily
 
 ### Image
 
